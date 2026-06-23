@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PIXELAPP_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c768941a101ecef29543f89ca785232c34689c2a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5467aba7a145a4c46e1e78594803a3105bdd89db")]
 [assembly: System.Reflection.AssemblyProductAttribute("PIXELAPP_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PIXELAPP_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
